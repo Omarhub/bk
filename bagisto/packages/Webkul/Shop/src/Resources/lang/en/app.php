@@ -490,7 +490,7 @@ return [
             'discount' => 'Discount',
             'grand-total' => 'Grand Total',
             'final-summary' => 'Thanks for showing your interest in our store we will send you tracking number once it shipped',
-            'help' => 'If you need any kind of help please contact us at :support_email',
+            'help' => 'If you need any kind of help please contact us at :support@binkhaldoun.com/',
             'thanks' => 'Thanks!'
         ],
         'invoice' => [
