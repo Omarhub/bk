@@ -207,7 +207,7 @@ return [
                     'page-title' => 'Customer - Add Address Form',
                     'title' => 'Add Address',
                     'street-address' => 'Street Address',
-                    'country' => 'Country',
+                    'country' => 'City',
                     'state' => 'State',
                     'select-state' => 'Select a region, state or province',
                     'city' => 'City',
