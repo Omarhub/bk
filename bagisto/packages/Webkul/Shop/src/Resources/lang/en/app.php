@@ -418,7 +418,7 @@ return [
             'select-state' => 'Select a region, state or province',
             'postcode' => 'Zip/Postcode',
             'phone' => 'Telephone',
-            'country' => 'City',
+            'country' => 'Country',
             'order-summary' => 'Order Summary',
             'shipping-address' => 'Shipping Address',
             'use_for_shipping' => 'Ship to this address',
